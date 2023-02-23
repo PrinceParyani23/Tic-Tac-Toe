@@ -1,0 +1,30 @@
+These commands can be used with diff command
+
+syntax of both 
+
+diff -c file1 file2
+
+diff -u file1 file2
+
+This is (-c) minus c command 
+The context format is a diff command-line utility option that outputs several lines of context around the lines that differ.
+Lines displaying information about the first file begin with ***, while lines indicating the second file start with ---.
+
+The rest of the lines list the content of the files. The beginning of each line instructs how to modify example1.txt to make it the same as example2.txt. If the line starts with:
+
+- (minus) – it needs to be deleted from the first file.
++ (plus) – it needs to be added to the first file.
+! (exclamation mark) – it needs to be changed to the corresponding line from the second file.
+
+
+now minux u command (-u)
+The unified format is an option you can add to display output without any redundant context lines. To do so, use the command:
+
+diff -u file1 file2
+
+Lines displaying information about the first file begin with ---, while lines indicating the second file start with +++
+
+The lines below display the content of the files and how to modify example1.txt to make it identical to example2.txt. When the line starts with:
+
+- (minus) – it needs to be deleted from the first file.
++ (plus) – it needs to be added to the first file.
