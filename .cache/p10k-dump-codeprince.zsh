@@ -409,7 +409,7 @@ typeset -g _POWERLEVEL9K_RIGHT_RIGHT_WHITESPACE=''
 typeset -g _POWERLEVEL9K_PHP_VERSION_FOREGROUND=99
 typeset -g _POWERLEVEL9K_ASDF_NODEJS_FOREGROUND=70
 typeset -g -i _POWERLEVEL9K_ANACONDA_SHOW_PYTHON_VERSION=1
-typeset -g -A _p9k_dumped_instant_prompt_sigs=( [/:0:%]=1 [/bin:0:%]=1 [/home/codeprince/pandas:0:%]=1 [/home/codeprince:0:%]=1 )
+typeset -g -A _p9k_dumped_instant_prompt_sigs=( [/:0:%]=1 [/bin:0:%]=1 [/home/codeprince/.ssh:0:%]=1 [/home/codeprince/pandas:0:%]=1 [/home/codeprince:0:%]=1 )
 typeset -g -i _POWERLEVEL9K_GO_VERSION_PROJECT_ONLY=1
 typeset -g _POWERLEVEL9K_AWS_EB_ENV_FOREGROUND=70
 typeset -g -i _POWERLEVEL9K_BATTERY_LOW_THRESHOLD=20
