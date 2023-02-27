@@ -1,8 +1,0 @@
-This is nano command and it is used to open an nano editor.. GNU nano is a friendly and convenient text editor like vi and emac . it offers many other extra fratures like word searching , replacing , jump to a line or column , filename tab completion , auto-indentiation , etc...  not every distros have nano pre-installed , but ubuntu has it...
-
-the notation for shortcuts is as follows : control-key sequence are notated with a caret (^) symbol 
-and can be entered either by using the control (ctrl) key pressing the esc key twice. Escape key sequence are notated with the Meta (M-) Symbol and can be entered using the esc , Alt , or Meta key depending on your keyboard setup. 
-
-
-
-
