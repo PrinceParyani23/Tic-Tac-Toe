@@ -1,6 +1,0 @@
-cp command is used to copy the data from existing file to a new file it is very useful and important command in the linux.. 
-in order to copy the data we have to follow this syntax...
-cp <existing file> <new file>
-
-if there is no exinsting file we can create a file and we can copy that file in any directory destination 
-
